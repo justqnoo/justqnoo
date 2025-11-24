@@ -2,26 +2,15 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://camo.githubusercontent.com/be918816468c624af9930e7f7112f0b3716658ebb1ca7a0abb824441a6d4e483/68747470733a2f2f6578706f72742d646f776e6c6f61642e63616e76612e636f6d2f764e2d5a382f444147356931764e2d5a382f31332f302f303030312d313539393236333335393839393532373232352e706e673f582d416d7a2d416c676f726974686d3d415753342d484d41432d53484132353626582d416d7a2d43726564656e7469616c3d414b4941515943474b4d554835414f37554a3236253246323032353131323325324675732d656173742d312532467333253246617773345f7265717565737426582d416d7a2d446174653d3230323531313233543133353030365a26582d416d7a2d457870697265733d333237353026582d416d7a2d5369676e61747572653d6261626533663534373164646466306337373064393837366561653662336262303339333132346161636537343561323361626137633233623739333831333826582d416d7a2d5369676e6564486561646572733d686f737426726573706f6e73652d636f6e74656e742d646973706f736974696f6e3d6174746163686d656e7425334225323066696c656e616d652532412533445554462d3825323725323762797a616e2e6c6f6c2e706e6726726573706f6e73652d657870697265733d53756e25324325323032332532304e6f7625323032303235253230323225334135352533413536253230474d54" alt="uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+justqnoo@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
+OS: Windows / MacOS
 Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377
+Location: USA
+Languages: JavaScript, HTML, CSS
+Hobbies: Gaming, Coding
+Discord: mrdavidss
 ```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
-</p>
