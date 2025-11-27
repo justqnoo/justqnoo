@@ -12,7 +12,7 @@ Pronouns: He/Him
 Location: USA
 Languages: JavaScript, HTML, CSS
 Current Main Projects: byzan.lol - https://github.com/justqnoo/byzanlol
-Side Projects: 
+Side Projects: byzan.lol client (byzan.lol atom clicker hacked client) - https://github.com/justqnoo/assets/
 Name: David
 Hobbies: Gaming, Coding
 Discord: mrdavidss
